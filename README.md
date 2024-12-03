@@ -4,7 +4,7 @@ Este projeto é uma aplicação java com integração a banco de dados (Postegre
 ## Objetivos do desenvolvimento do projeto:
   ### ● Padrão Singleton: Uma classe possui uma única instância e o acesso global do objeto único é através de um método da classe <br>
   ### ● Padrão Factory Method: define uma subclasse para criar um objeto, deixando que as subclasses decidam qual classe instanciar. 
-### O projeto tem como objetivo principal aplicar e compreender os dois padrões de projeto, promovendo o aprendizado sobre como manipulá-los de maneira eficaz.
+### O objetivo do projeto não é dispor de uma interface complexa, mas sim aplicar e compreender os dois padrões de projeto, promovendo o aprendizado sobre como manipulá-los de maneira eficaz.
 #### OBS: A aplicação do padrão Factory Method não reflete sua utilização no mercado, uma vez que a escolha da utilização da classe Filmes como "Produtos" das "Fábricas" (Produtoras) torna o cadastros de novos filmes um processo muito custoso, tendo em vista a criação de uma nova classe completa para cada novo filme cadastrado.
 
 ## Aplicação em execução
