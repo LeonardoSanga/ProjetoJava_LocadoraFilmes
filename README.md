@@ -7,6 +7,13 @@ Este projeto é uma aplicação java com integração a banco de dados (Postegre
 ### O objetivo do projeto não é dispor de uma interface complexa, mas sim aplicar e compreender os dois padrões de projeto, promovendo o aprendizado sobre como manipulá-los de maneira eficaz.
 #### OBS: A aplicação do padrão Factory Method não reflete sua utilização no mercado, uma vez que a escolha da utilização da classe Filmes como "Produtos" das "Fábricas" (Produtoras) torna o cadastros de novos filmes um processo muito custoso, tendo em vista a criação de uma nova classe completa para cada novo filme cadastrado.
 
+## Factory Method
+![image](https://github.com/user-attachments/assets/9efbf95f-1e07-4395-a1a6-17ad8db60e08)
+### ● Product (define a interface de objetos que o método fábrica cria): Filme
+### ● Creator (declara o método fábrica (FactoryMethod), o qual retorna um objeto do tipo Product): Produtora
+### ● ConcreteProduct (implementa a interface de Product): BladeRunner,  Matrix e  Origem (Warner Bros)  -  ForrestGump, PoderosoChefao e Titanic (Paramount)  -  Gladiador, JurassicPark e Psicose (Universal)
+### ● ConcreteCreator (redefine o método-fábrica para retornar a uma instância de um ConcreteProduct): Warner Bros  -  Paramount  -  Universal
+
 ## Aplicação em execução
 
 ### Tela Inicial
