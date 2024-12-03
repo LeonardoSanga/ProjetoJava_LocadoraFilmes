@@ -8,12 +8,26 @@ Este projeto é uma aplicação java com integração a banco de dados (Postegre
 #### OBS: A aplicação do padrão Factory Method não reflete sua utilização no mercado, uma vez que a escolha da utilização da classe Filmes como "Produtos" das "Fábricas" (Produtoras) torna o cadastros de novos filmes um processo muito custoso, tendo em vista a criação de uma nova classe completa para cada novo filme cadastrado.
 
 ## Factory Method
-![image](https://github.com/user-attachments/assets/9efbf95f-1e07-4395-a1a6-17ad8db60e08)
-### ● Product (define a interface de objetos que o método fábrica cria): Filme
-### ● Creator (declara o método fábrica (FactoryMethod), o qual retorna um objeto do tipo Product): Produtora
-### ● ConcreteProduct (implementa a interface de Product): BladeRunner,  Matrix e  Origem (Warner Bros)  -  ForrestGump, PoderosoChefao e Titanic (Paramount)  -  Gladiador, JurassicPark e Psicose (Universal)
-### ● ConcreteCreator (redefine o método-fábrica para retornar a uma instância de um ConcreteProduct): Warner Bros  -  Paramount  -  Universal
 
+<img src="https://github.com/user-attachments/assets/9efbf95f-1e07-4395-a1a6-17ad8db60e08" align="left" width="300" alt="Descrição da imagem">
+
+### Componentes:
+- **Product**: Define a interface de objetos que o método fábrica cria.
+  - **Exemplo:** Filme
+- **Creator**: Declara o método fábrica (FactoryMethod), o qual retorna um objeto do tipo Product.
+  - **Exemplo:** Produtora
+- **ConcreteProduct**: Implementa a interface de Product.
+  - **Exemplos:** 
+    - *Blade Runner*, *Matrix*, *Origem* (Warner Bros)  
+    - *Forrest Gump*, *Poderoso Chefão*, *Titanic* (Paramount)  
+    - *Gladiador*, *Jurassic Park*, *Psicose* (Universal)
+- **ConcreteCreator**: Redefine o método fábrica para retornar uma instância de um ConcreteProduct.
+  - **Exemplos:** 
+    - Warner Bros  
+    - Paramount  
+    - Universal
+
+<br><br><br>
 ## Aplicação em execução
 
 ### Tela Inicial
