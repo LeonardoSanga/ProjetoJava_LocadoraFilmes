@@ -1,4 +1,4 @@
-# ProjetoJava - Locadora de Filmes
+# Projeto em Java - Locadora de Filmes
 Este projeto é uma aplicação java com integração a banco de dados (PostegreSQL). O sistema foi desenvolvido na Eclipse IDE e, para a cricção da interface gráfica, foi utilizado o plugin WindowBuilder.
 
 ## Objetivos do desenvolvimento do projeto:
