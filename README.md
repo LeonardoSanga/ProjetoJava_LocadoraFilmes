@@ -13,12 +13,17 @@ Este projeto é uma aplicação java com integração a banco de dados (Postegre
 ![image](https://github.com/user-attachments/assets/3ef4f521-2ac9-4ed1-955d-d72da59ebe0e)
 
 ### Tela de Alugar
-![image](https://github.com/user-attachments/assets/42b15119-23cf-431a-b63f-3c90955b2c89)
+![image](https://github.com/user-attachments/assets/b316dfe3-6d7a-4fd1-8d77-8c6c44c0e0e5)
+![image](https://github.com/user-attachments/assets/11490347-f175-4487-8a3a-23a67bf92c1b)
+![image](https://github.com/user-attachments/assets/4639c988-bd1b-43bc-948b-4702657c5a0b)
 
 ### Tela de Devolver  
-![image](https://github.com/user-attachments/assets/290bddc8-96e1-4d30-a42c-ea0d9e195c74)
+![image](https://github.com/user-attachments/assets/ea447e32-7188-491c-a373-9ca9373a4fba)
+![image](https://github.com/user-attachments/assets/30e8f833-c899-4cf8-9d66-466f2fedab58)
+![image](https://github.com/user-attachments/assets/ec99f731-c7b7-4505-a5d0-5ee478f70467)
 
 ### Tela de Buscar
+![image](https://github.com/user-attachments/assets/99c0811b-3c00-4252-8727-4fd717c93d72)
 ![image](https://github.com/user-attachments/assets/fef8d322-9c1b-4804-a312-0799c711bf78)
 
 ### Tela de Listar Filmes
