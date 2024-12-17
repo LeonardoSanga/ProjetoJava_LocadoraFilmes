@@ -1,5 +1,5 @@
 # Projeto em Java - Locadora de Filmes
-Este projeto é uma aplicação java com integração a banco de dados (PostegreSQL). O sistema foi desenvolvido na Eclipse IDE e, para a cricção da interface gráfica, foi utilizado o plugin WindowBuilder.
+Este projeto é uma aplicação java com integração a banco de dados (PostegreSQL). O sistema foi desenvolvido na Eclipse IDE e, para a criação da interface gráfica, foi utilizado o plugin WindowBuilder.
 
 ## Objetivos do desenvolvimento do projeto:
   ### ● Padrão Singleton: Uma classe possui uma única instância e o acesso global do objeto único é através de um método da classe <br>
